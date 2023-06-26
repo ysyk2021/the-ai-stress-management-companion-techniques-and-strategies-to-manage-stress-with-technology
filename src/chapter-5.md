@@ -1,4 +1,4 @@
-Chapter: Integrating AI into Your Stress Management Strategy
+Integrating AI into Your Stress Management Strategy
 ============================================================
 
 Integrating AI technology into your stress management strategy can be an effective way to manage stress and improve overall wellbeing. In this chapter, we will explore how to develop a personalized stress management plan, create an efficient workflow with AI tools, and best practices for combining AI and traditional stress management techniques.
