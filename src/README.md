@@ -1,4 +1,4 @@
-# Introduction for Overview
+# Introduction
 
 Stress is an inevitable part of life, and it can have a significant impact on our physical and mental well-being. Although stress management techniques have been around for centuries, the use of technology has opened new doors to manage stress more effectively.
 

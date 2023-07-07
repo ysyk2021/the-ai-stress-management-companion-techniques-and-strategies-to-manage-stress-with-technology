@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The prevalence of stress in the modern world](chapter-1-1.md)
   - [The potential of AI technology to assist with stress management](chapter-1-2.md)
-  - [Overview of the book's content](chapter-1-3.md)
 - [Understanding Stress](chapter-2.md)
   - [What is stress?](chapter-2-1.md)
   - [Different types and causes of stress](chapter-2-2.md)
