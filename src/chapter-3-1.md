@@ -1,5 +1,3 @@
-Types of AI Technology for Stress Management
-==========================================================================================
 
 AI technology has the potential to revolutionize stress management by providing personalized support and guidance, analyzing data on individual stress levels, triggers, and preferences, and offering tailored recommendations for stress management techniques and interventions. In this chapter, we will explore various types of AI technology for stress management.
 

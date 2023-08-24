@@ -1,5 +1,3 @@
-Virtual Reality Relaxation Experiences
-===============================================================================
 
 Virtual reality (VR) technology offers a new and exciting way to manage stress with the help of AI-powered techniques. In this chapter, we will explore how VR can be used for relaxation and stress management.
 

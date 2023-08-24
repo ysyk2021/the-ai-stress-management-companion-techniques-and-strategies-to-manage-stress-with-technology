@@ -1,5 +1,3 @@
-The Prevalence of Stress in the Modern World
-==========================================================
 
 Stress is a prevalent problem that affects individuals across all demographics in the modern world. From work-related stress to family responsibilities and financial pressures, the sources of stress are numerous and often interconnected.
 

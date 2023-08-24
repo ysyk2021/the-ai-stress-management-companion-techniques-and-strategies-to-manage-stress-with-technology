@@ -1,5 +1,3 @@
-Chatbots and Virtual Assistants for Stress Relief
-===================================================================================================
 
 AI-powered chatbots and virtual assistants are becoming increasingly popular tools for stress management. In this chapter, we will explore how these technologies can be used to manage stress effectively.
 

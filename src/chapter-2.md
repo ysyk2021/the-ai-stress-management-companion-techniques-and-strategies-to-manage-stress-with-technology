@@ -1,5 +1,3 @@
-Understanding Stress
-=============================
 
 Stress is a natural response to challenging situations, but when it becomes chronic, it can have negative effects on our mental and physical health. In this chapter, we will explore the nature of stress, its different types and causes, and how it affects our body and mind.
 

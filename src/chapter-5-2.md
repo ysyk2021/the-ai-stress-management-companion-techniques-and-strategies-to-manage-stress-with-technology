@@ -1,5 +1,3 @@
-Creating an Efficient Workflow with AI Tools
-==========================================================================================================
 
 Integrating AI technology into your stress management strategy can be a powerful way to manage stress and improve overall wellbeing. In this chapter, we will explore how to create an efficient workflow with AI tools for stress management.
 

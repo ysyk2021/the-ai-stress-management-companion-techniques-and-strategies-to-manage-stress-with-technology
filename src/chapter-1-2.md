@@ -1,5 +1,3 @@
-The Potential of AI Technology to Assist with Stress Management
-======================================================================================
 
 Stress is a prevalent experience in the modern world, affecting millions of people worldwide. While stress is a natural response to challenging situations, chronic stress can have negative effects on our mental and physical health. In this book, we will explore how AI technology can be used to manage stress effectively.
 

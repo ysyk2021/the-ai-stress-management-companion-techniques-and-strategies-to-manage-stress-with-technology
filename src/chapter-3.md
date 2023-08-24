@@ -1,5 +1,3 @@
-The Role of AI in Stress Management
-===================================
 
 AI technology has revolutionized the way we manage stress, providing new tools and techniques to help individuals reduce their stress levels. In this chapter, we will explore the different types of AI technology for stress management, the benefits and limitations of each, and how to choose the right AI tool for your needs.
 

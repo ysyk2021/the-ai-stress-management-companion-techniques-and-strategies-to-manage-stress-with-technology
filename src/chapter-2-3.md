@@ -1,4 +1,3 @@
-# How Stress Affects the Body and Mind
 
 Stress is a natural response to challenging or demanding situations, but when left unmanaged, it can have significant impacts on both our bodies and minds. In this chapter, we will explore how stress affects our physical and mental well-being. Understanding these effects is crucial for developing effective strategies to manage stress with the help of AI technology.
 

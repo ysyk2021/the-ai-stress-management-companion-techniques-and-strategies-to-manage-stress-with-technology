@@ -1,5 +1,3 @@
-Mitigating the Risk of Over-Reliance on AI Tools
-=============================================================================================================
 
 While AI technology can be a valuable tool for managing stress, there are several common barriers that individuals may face when incorporating AI into their stress management routine. One such barrier is the risk of over-reliance on AI tools, which can lead to a lack of engagement with traditional stress management techniques and potential negative impacts on mental health.
 

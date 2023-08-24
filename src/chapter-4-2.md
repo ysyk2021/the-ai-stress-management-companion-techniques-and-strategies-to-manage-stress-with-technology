@@ -1,5 +1,3 @@
-Stress-tracking Wearables
-==================================================================
 
 Stress-tracking wearables are a type of AI-powered technology that can help individuals monitor and manage stress levels. These devices use sensors to track physiological data such as heart rate, breathing patterns, and skin temperature to provide insights into the body's response to stress.
 
