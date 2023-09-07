@@ -37,4 +37,4 @@ It is important to recognize the interplay between our minds and bodies when it 
 
 ## Conclusion
 
-Stress can have profound effects on our bodies and minds, impacting our overall well-being. By understanding these effects, we can take proactive steps to manage stress effectively. In the next chapters, we will explore how AI technology can assist us in recognizing and managing stress, providing techniques and strategies to promote a healthier, more balanced lifestyle.
+Stress can have profound effects on our bodies and minds, impacting our overall well-being. By understanding these effects, we can take proactive steps to manage stress effectively.
