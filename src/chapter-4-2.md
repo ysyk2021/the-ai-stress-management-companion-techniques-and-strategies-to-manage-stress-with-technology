@@ -1,5 +1,4 @@
-Chapter: Stress-tracking wearables
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of stress-tracking wearables in managing stress with technology. Stress is a common issue that affects many individuals, and wearable devices have emerged as valuable tools for monitoring and managing stress levels. These devices combine advanced sensors and algorithms to track various physiological parameters and provide users with real-time feedback on their stress levels.
 
